@@ -14,6 +14,7 @@
 		A0DA35D11CFBF8F4005FC810 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0DA35CF1CFBF8F4005FC810 /* LaunchScreen.storyboard */; };
 		A0DA35DC1CFBF8F4005FC810 /* EdadGatunaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0DA35DB1CFBF8F4005FC810 /* EdadGatunaTests.swift */; };
 		A0DA35E71CFBF8F4005FC810 /* EdadGatunaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0DA35E61CFBF8F4005FC810 /* EdadGatunaUITests.swift */; };
+		A0DA35F51CFC1552005FC810 /* el-perfume-del-gato.png in Resources */ = {isa = PBXBuildFile; fileRef = A0DA35F41CFC1552005FC810 /* el-perfume-del-gato.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		A0DA35E21CFBF8F4005FC810 /* EdadGatunaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EdadGatunaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0DA35E61CFBF8F4005FC810 /* EdadGatunaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EdadGatunaUITests.swift; sourceTree = "<group>"; };
 		A0DA35E81CFBF8F4005FC810 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A0DA35F41CFC1552005FC810 /* el-perfume-del-gato.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "el-perfume-del-gato.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				A0DA35C61CFBF8F4005FC810 /* AppDelegate.swift */,
 				A0DA35C81CFBF8F4005FC810 /* ViewController.swift */,
 				A0DA35CA1CFBF8F4005FC810 /* Main.storyboard */,
+				A0DA35F41CFC1552005FC810 /* el-perfume-del-gato.png */,
 				A0DA35CD1CFBF8F4005FC810 /* Assets.xcassets */,
 				A0DA35CF1CFBF8F4005FC810 /* LaunchScreen.storyboard */,
 				A0DA35D21CFBF8F4005FC810 /* Info.plist */,
@@ -231,6 +234,7 @@
 			files = (
 				A0DA35D11CFBF8F4005FC810 /* LaunchScreen.storyboard in Resources */,
 				A0DA35CE1CFBF8F4005FC810 /* Assets.xcassets in Resources */,
+				A0DA35F51CFC1552005FC810 /* el-perfume-del-gato.png in Resources */,
 				A0DA35CC1CFBF8F4005FC810 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
